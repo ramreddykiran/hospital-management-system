@@ -2,6 +2,8 @@ Spring Boot multi module application
 
 technologies : java 11, Gradle, Spring boot, JPA, H2 inline DB, RESTful services
 
+-- in ui module Application.java run the class
+
 -- After starting the application, login to H2 DB from browser
 	
 	http://localhost:8087/hospital-management-system/h2-console
